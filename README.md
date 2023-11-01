@@ -28,8 +28,8 @@ Teachers: Jean Paul Ligthart and Samuil Angelov
     - [3.6.1 What is CI/CD](#361-what-is-cicd)
     - [3.6.2 Applying CI/CD and Testing to my own project](#362-applying-cicd-and-testing-to-my-own-project)
       - [CI/CD](#cicd)
-  - [4. Group Project (Maua x Fontys)](#4-group-project-the-parking-pals)
-  - [5. Individual Project (Online Library)](#5-individual-project-nickster)
+  - [4. Group Project (Maua x Fontys)](#4-group-project-maua-x-fontys)
+  - [5. Individual Project (Online Library)](#5-individual-project-online-library)
     - [5.1 Design choice](#51-design-choice)
     - [5.2 Software Design](#52-software-design)
     - [5.3 Usability Test](#53-usability-test)
@@ -55,4 +55,38 @@ Welcome to my ICT and Software Engineering portfolio! This portfolio shows my wo
 | 6   | Requirements and Design         | You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**. | **Multiple types of test techniques:** You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.                                                                                                                                                     |
 | 7   | Business processes              | You analyze and describe **simple** business processes that are **related** to your project.                                                | **Simple:** Involving stakeholders, predominantly sequential processes with one or two alternative paths.<br>**Related:** Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br>**or**<br>Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
 | 8   | Professional                    | You act in a **professional manner** during software development and learning.                                                              | **Professional manner:** You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.<br>You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem.                       |
+
+
+## 5. Individual Project (Online Library)
+
+Key features:
+
+1. Extensive Book Repository:
+Dive into a vast and diverse collection of books encompassing various genres, from timeless classics to contemporary masterpieces.
+
+3. Personalized Libraries and Bookshelves:
+Create your unique reading space by curating personalized libraries. Add your favorite books, organize them into thematic bookshelves, and design your literary world.
+
+4. Social Networking for Readers:
+Connect with fellow book lovers, expand your reading circle, and forge meaningful connections. Follow your friends, see their reading lists, and discover new titles through their recommendations.
+
+5. Author Interactions and Insights:
+Stay updated with your favorite authors. Follow their profiles, delve into their bibliographies, and receive notifications about their latest releases.
+
+6. Interactive Book Reviews and Discussions:
+Share your thoughts through detailed book reviews.
+
+
+
+### 5.1 Design choice
+- Front end: React JS 
+
+- Back end: Java Spring Boot
+
+- Database: MSSQL
+
+### 5.2 UX design
+In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
+After an extensive research on different online library User Interfaces I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
+<img src="./images/7d9bc32f040e457f87024360337a99b4(1).png" alt="UI" style="max-width:100%;max-height:78%" />
 
