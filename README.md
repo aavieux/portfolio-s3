@@ -56,6 +56,20 @@ Welcome to my ICT and Software Engineering portfolio! This portfolio shows my wo
 | 7   | Business processes              | You analyze and describe **simple** business processes that are **related** to your project.                                                | **Simple:** Involving stakeholders, predominantly sequential processes with one or two alternative paths.<br>**Related:** Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br>**or**<br>Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance). |
 | 8   | Professional                    | You act in a **professional manner** during software development and learning.                                                              | **Professional manner:** You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.<br>You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate solutions for a given problem.                       |
 
+## 3.3 Agile methods
+
+Understanding the Essence of Agile Methodology
+
+When it comes to software development Agile methodology shines as an iterative approach that values collaboration, adaptability and customer feedback. While I possess a comprehension of principles and the various well known methods associated with it my personal approach incorporates a combination of tailored Agile concepts that align with my unique work style.
+
+Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
+### 3.3
+However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project.
+
+In essence my methodology reflects an understanding of principles while also incorporating flexibility, beyond prescribed frameworks. This adaptive mindset ensures that I remain responsive to project needs while fostering an environment to efficient development processes.
+
+## 5. Cultural differences and ethics
+
 
 ## 5. Individual Project (Online Library)
 
@@ -88,5 +102,8 @@ Share your thoughts through detailed book reviews.
 ### 5.2 UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
 After an extensive research on different online library User Interfaces I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
-<img src="./images/7d9bc32f040e457f87024360337a99b4(1).png" alt="UI" style="max-width:100%;max-height:78%" />
+<br>
+
+
+<img src="./images/ui-diagram.png" alt="UI" style="max-width:100%;max-height:78%" />
 
