@@ -58,17 +58,54 @@ Welcome to my ICT and Software Engineering portfolio! This portfolio shows my wo
 
 
 ## LO1. Web Application
+
+To get familiar with waht actually both my projects that I am currently working on should do you can check {LO}
+
 <br>
+
 ### UI prototyping
 
-I have made a lot of UI prototyping, self-studying and researching for my individual project. I researched the most famous online libraries and their UI structure and watched a few explanations on why their UI is user-friendly and effective. For the group project we had already chosen UI from the product owner. 
+I have made a lot of UI prototyping, self-studying and researching for my individual project. I researched the most famous online libraries and their UI structure and watched a few explanations on why their UI is user-friendly and effective. 
+
 A prototype of my individual project you can see on page {...}
 
 I also did some usability tests in school with my peers. I showed my prototype and overrall the feedback was positive including some remarks and suggestions from their side.
 
 After a final discussion with the product owner I finally decided to implement my prototype.
 
-### Testing in Agile Project {...}
+For the group project we had already a chosen UI from the product owner. 
+
+### Software Development
+To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers here: {src}
+Based on the answers I prioritized my tasks accordingly.
+
+In the begining, the difficulties i found were that the technologies I wanted to use were foreign to me and I needed to make an extensive research how the project should be structured.
+
+The first thing that I started doing is the main page. I decided to split in half horizontally. In the upper side I have put the books that are recommended to the user based on their searches, saved books, favourite author, etc. The algorythm for this is also a user requirement which is yet to be implemented.
+
+The second half shows the most recently added books in the database.
+
+Regardless of the location of the user throughout the application, he/she can always access the dashboards on the left and right with list of common sections and friend list respectively.
+<br>
+<img src="./images/Project-images/Screenshot_3.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
+<br>
+
+My second task was actually the most important feature which is the option to search and filter books by name, author, genre, etc.
+
+I also implemented in the first weeks of the development, the option to save books in your own library. As well as viewing the details of the book with two buttons with the option to add it to a library or to read it now. If the User hasn't bought the book yet, when clicking on the "Add library" button, a prompt will appear, guiding him/her how to make the purchase. 
+<br>
+<img src="./images/Project-images/Screenshot_8.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
+<br>
+The user has, of course, the option to have a view on his/her libraries and to create new ones, which feature is due to be completed. 
+<br>
+<img src="./images/Project-images/Screenshot_5.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
+<br>
+
+I have also started one of the features, which were not as important, but which I decided to be an interesting part of my application. I have made a simple option to view your friends' profile by clicking on their name in the right navigation panel with the friend list and also to view your own profile with some of the details of the user such as 
+favourite author and the number of total friends. 
+<img src="./images/Project-images/Screenshot_6.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
+
+### Testing in Agile Project {...}{lo cicd}
 I understood that you cannot go to deployment without testing. Ever. That ment that I had to research about different approaches for testing, their advantages and disadvantages. In the Netherlands Tmap HD is the most common agile method of testing. The phases used are:
 
     1. planning and management, this is where the Master test plan is written and the detailed test plans are started.
@@ -77,7 +114,7 @@ I understood that you cannot go to deployment without testing. Ever. That ment t
     4. performance
     5. evaluation and completion 
     
-### Software Development {...}
+
 
 
 ## LO2. Software quality 
@@ -126,7 +163,19 @@ In essence my methodology reflects an understanding of principles while also inc
 <img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
 
 ## LO4. CI/CD
-{...}
+
+  CI/CD is important because it helps developers work together smoothly and deliver better, bug-free software faster. Continuous Integration catches mistakes early, and Continuous Deployment automates the process of putting the code into action. This means fewer errors, quicker updates, and happier users. Thats why I chose github actions' continuous integration workflow. 
+  
+{src}
+
+For continuous deployment I am still weighting out the opportunities, but I have plans to stick with deployment to Azure Web App.
+
+Every feature so far I try my best to be always tested properly so that I can keep an eye if everything is working correctly. I developed the tests by using an extention called Diffblue, which eases the work for the tests.
+
+{src}
+{src}
+
+My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
 
 ## LO5. Cultural differences and ethics
 
@@ -134,19 +183,17 @@ In essence my methodology reflects an understanding of principles while also inc
   Having a difference in the time zones of 5 hours, sometimes made it harder for us to cooperate and schedule meetings. Also understanding one's culture might be hard for somebody who hasn't participated in intercultural meetings, but at the end of the day
   if we try to understand each other's viewpoints and opinions, most of the time we can find a common way to deal with the setbacks.
   There are many books, and materials published that try to explain and dive deep into the different cultures and their charecters. Such is the book "Culture and organisations" by Gert Jan Hofstede, which was reccomended to me by my teacher Samuil Angelov,    which I would like to get familiar with soon.
-  
-  {...}
 
 ## LO6. Requirements and Design 
 
-### 5.1 Design choice of my individual project
+### Design choice of my individual project
 - Front end: React JS 
 
 - Back end: Java Spring Boot
 
 - Database: MSSQL
 
-### 5.2 UX design
+### UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
 After an extensive research (mentioned in {...}) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
 <br>
@@ -154,7 +201,11 @@ After an extensive research (mentioned in {...}) I developed my own, which fits 
 
 <img src="./images/ui-diagram.png" alt="UI" style="max-width:100%;max-height:78%" />
 
+## LO7. Business processes
 
+We are in a team with a brazilian team from university Maua in Brazil and they were mainly responsible for the idea of how the application will look like. 
+
+--indiv
 Key features:
 
 1. Extensive Book Repository:
@@ -172,4 +223,6 @@ Stay updated with your favorite authors. Follow their profiles, delve into their
 6. Interactive Book Reviews and Discussions:
 Share your thoughts through detailed book reviews.
 
+
+## LO8. Professional  
 
