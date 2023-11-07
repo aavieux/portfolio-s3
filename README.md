@@ -96,17 +96,17 @@ The software quality side includes many factors such as:
 
 4. Code Review Tools:
    Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
-   {... src}
+  <img src="./images/Screenshot_3.png" alt="github" style="max-width:100%;max-height:78%" />
 
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
 For the front-end side of the applications I used Google's development tool called "Lighthouse".
-{... src}
+<img src="./images/IYRw9kB2rqEsnAj48IJ9.avif" alt="lighthouse_image" style="max-width:100%;max-height:78%" />
 
 8. Security Scanning Tools:
   No application can be deployed without identifing vulnerabilities in the application code and configuration. These tools help developers address security issues and improve the overall security posture of the software. I used OWASP
 TOP 10 vulnerabilities list to examine my code and to avoid the most common mistakes that happen securitywise in applications.
-{.. src}
+<img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" />
 
 
 
@@ -123,7 +123,7 @@ Agile promotes collaboration, frequent reassessment of project goals and iterati
 However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project.
 
 In essence my methodology reflects an understanding of principles while also incorporating flexibility, beyond prescribed frameworks. This adaptive mindset ensures that I remain responsive to project needs while fostering an environment to efficient development processes.
-{...src}
+<img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
 
 ## LO4. CI/CD
 {...}
