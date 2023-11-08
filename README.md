@@ -84,7 +84,8 @@ GROUP PROJECT
 The advantages of this project are multifaceted: it simplifies the onboarding process, enhances student experience. By providing a centralized platform for essential information such as campus activities, interactive maps, and organizational directories, the web application adds significant value to the university’s service offering. It enriches the educational environment by fostering a sense of community and belonging among students. 
 
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
-{src}
+
+<img src="./images/Picture2.png" alt="wireframe" style="max-width:100%;max-height:78%" />
 
 
   
@@ -163,7 +164,8 @@ GROUP PROJECT
   Full estimation: 11 days
 }
 
-{src}
+
+<img src="./images/Screenshot_3 (4).png" alt="interactive-campus-map" style="max-width:100%;max-height:78%" />
 The number of people in the team almost matches the number of features in the projeect, so that everybody can have a part of it. 
 More and more features are due to emerge and I am looking forward to do them.
 
@@ -218,14 +220,15 @@ In essence my methodology reflects an understanding of principles while also inc
 
   CI/CD is important because it helps developers work together smoothly and deliver better, bug-free software faster. Continuous Integration catches mistakes early, and Continuous Deployment automates the process of putting the code into action. This means fewer errors, quicker updates, and happier users. Thats why I chose github actions' continuous integration workflow. 
   
-{src}
+
+<img src="./images/Screenshot_3 (2).png" alt="github-actions" style="max-width:100%;max-height:78%" />
+<img src="./images/Screenshot_3 (3).png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 For continuous deployment I am still weighting out the opportunities, but I have plans to stick with deployment to Azure Web App.
 
 Every feature so far I try my best to be always tested properly so that I can keep an eye if everything is working correctly. I developed the tests by using an extention called Diffblue, which eases the work for the tests.
 
-{src}
-{src}
+<img src="./images/Screenshot_4 (2).png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
 
