@@ -59,7 +59,35 @@ Welcome to my ICT and Software Engineering portfolio! This portfolio shows my wo
 
 ## LO1. Web Application
 
-To get familiar with waht actually both my projects that I am currently working on should do you can check {LO}
+INDIVIDUAL PROJECT
+
+  My individual project application called "Online Library" has the following key features:
+
+1. Extensive Book Repository:
+Dive into a vast and diverse collection of books encompassing various genres, from timeless classics to contemporary masterpieces.
+
+3. Personalized Libraries and Bookshelves:
+Create your unique reading space by curating personalized libraries. Add your favorite books, organize them into thematic bookshelves, and design your literary world.
+
+4. Social Networking for Readers:
+Connect with fellow book lovers, expand your reading circle, and forge meaningful connections. Follow your friends, see their reading lists, and discover new titles through their recommendations.
+
+5. Author Interactions and Insights:
+Stay updated with your favorite authors. Follow their profiles, delve into their bibliographies, and receive notifications about their latest releases.
+
+6. Interactive Book Reviews and Discussions:
+Share your thoughts through detailed book reviews.
+
+GROUP PROJECT 
+
+  The primary goal of the group project is to streamline the integration and orientation process for new students at Maua by developing a comprehensive web application. The impetus behind this project is the recognition of the challenges faced by incoming students in navigating the activities, locations, and organizations within the university.  
+The advantages of this project are multifaceted: it simplifies the onboarding process, enhances student experience. By providing a centralized platform for essential information such as campus activities, interactive maps, and organizational directories, the web application adds significant value to the university’s service offering. It enriches the educational environment by fostering a sense of community and belonging among students. 
+
+In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
+{src}
+
+
+  
 
 <br>
 
@@ -76,6 +104,8 @@ After a final discussion with the product owner I finally decided to implement m
 For the group project we had already a chosen UI from the product owner. 
 
 ### Software Development
+  INDIVIDUAL PROJECT
+
 To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers here: {src}
 Based on the answers I prioritized my tasks accordingly.
 
@@ -114,6 +144,28 @@ I understood that you cannot go to deployment without testing. Ever. That ment t
     4. performance
     5. evaluation and completion 
     
+
+GROUP PROJECT 
+
+  I have developed the feature to be able to see an interactive campus map based on the following user story:
+  
+{
+  User Story 3:
+  As a student,
+  I want access to an interactive campus map
+  so that I can locate and familiarize myself with various campus buildings and activities.
+  
+  Acceptance Criteria:
+  i.	The application should include an interactive map displaying the locations of all Mauá's buildings and classrooms. - 34 - 3-4 days
+  ii.	Each building on the map should have a clickable button that, when pressed, reveals a list of activities happening in that building. - 55 - 5 days
+  iii.	The map should also display the locations of cafeterias and restaurants on the campus. - 21 - 2 days
+  Testing: 2 days
+  Full estimation: 11 days
+}
+
+{src}
+The number of people in the team almost matches the number of features in the projeect, so that everybody can have a part of it. 
+More and more features are due to emerge and I am looking forward to do them.
 
 
 
@@ -203,25 +255,6 @@ After an extensive research (mentioned in {...}) I developed my own, which fits 
 
 ## LO7. Business processes
 
-We are in a team with a brazilian team from university Maua in Brazil and they were mainly responsible for the idea of how the application will look like. 
-
---indiv
-Key features:
-
-1. Extensive Book Repository:
-Dive into a vast and diverse collection of books encompassing various genres, from timeless classics to contemporary masterpieces.
-
-3. Personalized Libraries and Bookshelves:
-Create your unique reading space by curating personalized libraries. Add your favorite books, organize them into thematic bookshelves, and design your literary world.
-
-4. Social Networking for Readers:
-Connect with fellow book lovers, expand your reading circle, and forge meaningful connections. Follow your friends, see their reading lists, and discover new titles through their recommendations.
-
-5. Author Interactions and Insights:
-Stay updated with your favorite authors. Follow their profiles, delve into their bibliographies, and receive notifications about their latest releases.
-
-6. Interactive Book Reviews and Discussions:
-Share your thoughts through detailed book reviews.
 
 
 ## LO8. Professional  
