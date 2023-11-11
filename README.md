@@ -11,14 +11,14 @@ Teachers: Jean Paul Ligthart and Samuil Angelov
 ## Table of contents
 1. [Introduction](#1-introduction)
 2. [Learning Outcomes](#2-learning-outcomes)
-    1. [Web Application](#lo1-web-application)
-    2. [Software Quality](#lo2-software-quality)
-    3. [Agile Methods](#lo3-agile-methods)
-    4. [CI/CD](#lo4-cicd)
-    5. [Cultural Differences and Ethics](#lo5-cultural-differences-and-ethics)
-    6. [Requirements and Design](#lo6-requirements-and-design)
-    7. [Business Processes](#lo7-business-processes)
-    8. [Professional](#lo8-professional)
+    2.1. [Web Application](#lo1-web-application)
+    2.2. [Software Quality](#lo2-software-quality)
+    2.3. [Agile Methods](#lo3-agile-methods)
+    2.4. [CI/CD](#lo4-cicd)
+    2.5. [Cultural Differences and Ethics](#lo5-cultural-differences-and-ethics)
+    2.6. [Requirements and Design](#lo6-requirements-and-design)
+    2.7. [Business Processes](#lo7-business-processes)
+    2.8. [Professional](#lo8-professional)
 
 ## 1. Introduction
 
@@ -79,7 +79,7 @@ In the beginning we spoke with the product owner and he gave us wireframes, expl
 
 I have made a lot of UI prototyping, self-studying and researching for my individual project. I researched the most famous online libraries and their UI structure and watched a few explanations on why their UI is user-friendly and effective. 
 
-A prototype of my individual project you can see on page {...}
+A prototype of my individual project you can see on page [Requirements and Design](#lo6-requirements-and-design)
 
 I also did some usability tests in school with my peers. I showed my prototype and overrall the feedback was positive including some remarks and suggestions from their side.
 
@@ -119,7 +119,7 @@ I have also started one of the features, which were not as important, but which 
 favourite author and the number of total friends. 
 <img src="./images/Project-images/Screenshot_6.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
 
-### Testing in Agile Project {...}{lo cicd}
+### Testing in Agile Project [(also check CI/CD)](#lo4-cicd)
 I understood that you cannot go to deployment without testing. Ever. That ment that I had to research about different approaches for testing, their advantages and disadvantages. In the Netherlands Tmap HD is the most common agile method of testing. The phases used are:
 
     1. planning and management, this is where the Master test plan is written and the detailed test plans are started.
@@ -166,7 +166,7 @@ The software quality side includes many factors such as:
 
 
 3. Continuous Integration and Continuous Deployment (CI/CD) Tools:
-  See LO{....}
+  [CI/CD](#lo4-cicd)}
 
 4. Code Review Tools:
    Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
@@ -233,7 +233,7 @@ My next goal in terms of testing is to make a more extensive research on how can
 
 ### UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
-After an extensive research (mentioned in {...}) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
+After an extensive research (mentioned in [Requirements and Design](#lo6-requirements-and-design)) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
 <br>
 
 
