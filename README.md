@@ -66,6 +66,7 @@ The advantages of this project are multifaceted: it simplifies the onboarding pr
 
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
 
+
 <img src="./images/Picture2.png" alt="wireframe" style="max-width:100%;max-height:78%" />
 
 
@@ -100,23 +101,32 @@ The second half shows the most recently added books in the database.
 
 Regardless of the location of the user throughout the application, he/she can always access the dashboards on the left and right with list of common sections and friend list respectively.
 <br>
+
 <img src="./images/Project-images/Screenshot_3.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
+
 <br>
 
 My second task was actually the most important feature which is the option to search and filter books by name, author, genre, etc.
 
 I also implemented in the first weeks of the development, the option to save books in your own library. As well as viewing the details of the book with two buttons with the option to add it to a library or to read it now. If the User hasn't bought the book yet, when clicking on the "Add library" button, a prompt will appear, guiding him/her how to make the purchase. 
 <br>
+
 <img src="./images/Project-images/Screenshot_8.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
 <br>
+
 The user has, of course, the option to have a view on his/her libraries and to create new ones, which feature is due to be completed. 
 <br>
+
 <img src="./images/Project-images/Screenshot_5.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
+
 <br>
 
 I have also started one of the features, which were not as important, but which I decided to be an interesting part of my application. I have made a simple option to view your friends' profile by clicking on their name in the right navigation panel with the friend list and also to view your own profile with some of the details of the user such as 
 favourite author and the number of total friends. 
+
+
 <img src="./images/Project-images/Screenshot_6.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
+
 
 ### Testing in Agile Project [(also check CI/CD)](#lo4-cicd)
 I understood that you cannot go to deployment without testing. Ever. That ment that I had to research about different approaches for testing, their advantages and disadvantages. In the Netherlands Tmap HD is the most common agile method of testing. The phases used are:
@@ -148,6 +158,8 @@ GROUP PROJECT
 
 
 <img src="./images/Screenshot_3 (4).png" alt="interactive-campus-map" style="max-width:100%;max-height:78%" />
+
+
 The number of people in the team almost matches the number of features in the projeect, so that everybody can have a part of it. 
 More and more features are due to emerge and I am looking forward to do them.
 
@@ -167,16 +179,23 @@ The software quality side includes many factors such as:
 
 4. Code Review Tools:
    Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
+
+   
   <img src="./images/Screenshot_3.png" alt="github" style="max-width:100%;max-height:78%" />
+  
 
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
 For the front-end side of the applications I used Google's development tool called "Lighthouse".
+
+
 <img src="./images/IYRw9kB2rqEsnAj48IJ9.avif" alt="lighthouse_image" style="max-width:100%;max-height:78%" />
 
 8. Security Scanning Tools:
   No application can be deployed without identifing vulnerabilities in the application code and configuration. These tools help developers address security issues and improve the overall security posture of the software. I used OWASP
 TOP 10 vulnerabilities list to examine my code and to avoid the most common mistakes that happen securitywise in applications.
+
+
 <img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" />
 
 
@@ -192,7 +211,10 @@ Agile promotes collaboration, frequent reassessment of project goals and iterati
 However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project.
 
 In essence my methodology reflects an understanding of principles while also incorporating flexibility, beyond prescribed frameworks. This adaptive mindset ensures that I remain responsive to project needs while fostering an environment to efficient development processes.
+
+
 <img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+
 
 ## LO4. CI/CD
 
@@ -200,13 +222,18 @@ In essence my methodology reflects an understanding of principles while also inc
   
 
 <img src="./images/Screenshot_3 (2).png" alt="github-actions" style="max-width:100%;max-height:78%" />
+
+
 <img src="./images/Screenshot_3 (3).png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+
 
 For continuous deployment I am still weighting out the opportunities, but I have plans to stick with deployment to Azure Web App.
 
 Every feature so far I try my best to be always tested properly so that I can keep an eye if everything is working correctly. I developed the tests by using an extention called Diffblue, which eases the work for the tests.
 
+
 <img src="./images/Screenshot_4 (2).png" alt="diffblue" style="max-width:100%;max-height:78%" />
+
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
 
@@ -234,15 +261,21 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 
 <img src="./images/ui-diagram.png" alt="UI" style="max-width:100%;max-height:78%" />
 
+
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
   Business processes and software applications are closely intertwined in the realm of organizational operations. They relate to each other by Automation of Workflows, Data Management, Communication and Collaboration, Standardization and Consistency,  Decision Support, Adaptability to Change, Customer Interaction, Monitoring and Optimization, Integration of Systems and Regulatory Compliance.
-  In the following image I have vizualized the business process in the point of view of the user when he wants to buy a book in my individual project. This business process also describes the automation from the server's side regarding the invoicing. 
+  
+  In the following image I have vizualized the business process using a [BPMN software](https://www.visual-paradigm.com/guide/bpmn/what-is-bpmn/) in the point of view of the user when he wants to buy a book in my individual project. This business process also describes the automation from the server's side regarding the invoicing. 
+
 
 <img src="./images/bsiness_process.png" alt="business_process" style="max-width:100%;max-height:78%" />
 
+
   In the group project, our applications has the aim to ease teachers and students with managing university-related events. It automizes the process of subscribing/unsubscribing to an event in the system and delivers a quick overview of all events in the different university buildings. It also helps organisers deliver announcements and notifications to people, who have access to the application.
+
+  
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
   
 
