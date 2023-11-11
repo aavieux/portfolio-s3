@@ -100,26 +100,24 @@ The first thing that I started doing is the main page. I decided to split in hal
 The second half shows the most recently added books in the database.
 
 Regardless of the location of the user throughout the application, he/she can always access the dashboards on the left and right with list of common sections and friend list respectively.
-<br>
+
 
 <img src="./images/Project-images/Screenshot_3.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
 
-<br>
 
 My second task was actually the most important feature which is the option to search and filter books by name, author, genre, etc.
 
 I also implemented in the first weeks of the development, the option to save books in your own library. As well as viewing the details of the book with two buttons with the option to add it to a library or to read it now. If the User hasn't bought the book yet, when clicking on the "Add library" button, a prompt will appear, guiding him/her how to make the purchase. 
-<br>
+
 
 <img src="./images/Project-images/Screenshot_8.png" alt="save_books_img" style="max-width:100%;max-height:78%" />
-<br>
+
 
 The user has, of course, the option to have a view on his/her libraries and to create new ones, which feature is due to be completed. 
-<br>
+
 
 <img src="./images/Project-images/Screenshot_5.png" alt="libraries_img" style="max-width:100%;max-height:78%" />
 
-<br>
 
 I have also started one of the features, which were not as important, but which I decided to be an interesting part of my application. I have made a simple option to view your friends' profile by clicking on their name in the right navigation panel with the friend list and also to view your own profile with some of the details of the user such as 
 favourite author and the number of total friends. 
@@ -142,19 +140,18 @@ GROUP PROJECT
 
   I have developed the feature to be able to see an interactive campus map based on the following user story:
   
-{
-  User Story 3:
-  As a student,
-  I want access to an interactive campus map
-  so that I can locate and familiarize myself with various campus buildings and activities.
-  
-  Acceptance Criteria:
-  i.	The application should include an interactive map displaying the locations of all Mauá's buildings and classrooms. - 34 - 3-4 days
-  ii.	Each building on the map should have a clickable button that, when pressed, reveals a list of activities happening in that building. - 55 - 5 days
-  iii.	The map should also display the locations of cafeterias and restaurants on the campus. - 21 - 2 days
-  Testing: 2 days
-  Full estimation: 11 days
-}
+    {
+          User Story 3:
+          As a student,
+          I want access to an interactive campus map
+          so that I can locate and familiarize myself with various campus buildings and activities.
+          Acceptance Criteria:
+          i.	The application should include an interactive map displaying the locations of all Mauá's buildings and classrooms. - 34 - 3-4 days
+          ii.	Each building on the map should have a clickable button that, when pressed, reveals a list of activities happening in that building. - 55 - 5 days
+          iii.	The map should also display the locations of cafeterias and restaurants on the campus. - 21 - 2 days
+          Testing: 2 days
+          Full estimation: 11 days
+    }
 
 
 <img src="./images/Screenshot_3 (4).png" alt="interactive-campus-map" style="max-width:100%;max-height:78%" />
@@ -197,7 +194,6 @@ TOP 10 vulnerabilities list to examine my code and to avoid the most common mist
 
 
 <img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" />
-
 
 
 ## LO3. Agile methods
@@ -278,7 +274,6 @@ After an extensive research (mentioned in {research page}) I developed my own, w
   
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
   
-
 
 ## LO8. Professional  
 
