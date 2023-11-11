@@ -261,10 +261,11 @@ After an extensive research (mentioned in {...}) I developed my own, which fits 
   
   Business processes and software applications are closely intertwined in the realm of organizational operations. They relate to each other by Automation of Workflows, Data Management, Communication and Collaboration, Standardization and Consistency,  Decision Support, Adaptability to Change, Customer Interaction, Monitoring and Optimization, Integration of Systems and Regulatory Compliance.
   In the following image I have vizualized the business process in the point of view of the user when he wants to buy a book in my individual project. This business process also describes the automation from the server's side regarding the invoicing. 
-  {src}
+
+<img src="./images/bsiness_process.png" alt="business_process" style="max-width:100%;max-height:78%" />
 
   In the group project, our applications has the aim to ease teachers and students with managing university-related events. It automizes the process of subscribing/unsubscribing to an event in the system and delivers a quick overview of all events in the different university buildings. It also helps organisers deliver announcements and notifications to people, who have access to the application.
-  {src}
+<img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
   
 
 
