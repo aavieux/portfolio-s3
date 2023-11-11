@@ -2,29 +2,27 @@
 
 Aleksandar Garkov
 Class: 
-Teachers: Jean Paul Ligthart and Samuil Angelov 
+Teachers: Jean Paul Ligthart, Samuil Angelov and Monique Vissers
 
 ## My Website
-- Git Repository: 
-- Research Report: https://github.com/nickybreezy/Nickster/blob/main/researchreport.md
+- Git Repository: https://github.com/aavieux/portfolio-s3
+- Research Report: https://github.com/...
 ---
-## Table of contents
+## Table of Contents
 1. [Introduction](#1-introduction)
 2. [Learning Outcomes](#2-learning-outcomes)
-    2.1. [Web Application](#lo1-web-application)
-    2.2. [Software Quality](#lo2-software-quality)
-    2.3. [Agile Methods](#lo3-agile-methods)
-    2.4. [CI/CD](#lo4-cicd)
-    2.5. [Cultural Differences and Ethics](#lo5-cultural-differences-and-ethics)
-    2.6. [Requirements and Design](#lo6-requirements-and-design)
-    2.7. [Business Processes](#lo7-business-processes)
-    2.8. [Professional](#lo8-professional)
+    1. [Web Application](#lo1-web-application)
+    2. [Software Quality](#lo2-software-quality)
+    3. [Agile Methods](#lo3-agile-methods)
+    4. [CI/CD](#lo4-cicd)
+    5. [Cultural Differences and Ethics](#lo5-cultural-differences-and-ethics)
+    6. [Requirements and Design](#lo6-requirements-and-design)
+    7. [Business Processes](#lo7-business-processes)
+    8. [Professional](#lo8-professional)
 
 ## 1. Introduction
 
 Welcome to my ICT and Software Engineering portfolio! This portfolio shows my work throughout the research, development and testing of my latest software projects in university. 
-
-
 
 ## 2. Learning Outcomes
 
@@ -45,21 +43,21 @@ Welcome to my ICT and Software Engineering portfolio! This portfolio shows my wo
 INDIVIDUAL PROJECT
 
   My individual project application called "Online Library" has the following key features:
-
-1. Extensive Book Repository:
-Dive into a vast and diverse collection of books encompassing various genres, from timeless classics to contemporary masterpieces.
-
-3. Personalized Libraries and Bookshelves:
-Create your unique reading space by curating personalized libraries. Add your favorite books, organize them into thematic bookshelves, and design your literary world.
-
-4. Social Networking for Readers:
-Connect with fellow book lovers, expand your reading circle, and forge meaningful connections. Follow your friends, see their reading lists, and discover new titles through their recommendations.
-
-5. Author Interactions and Insights:
-Stay updated with your favorite authors. Follow their profiles, delve into their bibliographies, and receive notifications about their latest releases.
-
-6. Interactive Book Reviews and Discussions:
-Share your thoughts through detailed book reviews.
+    
+    1. Extensive Book Repository:
+    Dive into a vast and diverse collection of books encompassing various genres, from timeless classics to contemporary masterpieces.
+    
+    3. Personalized Libraries and Bookshelves:
+    Create your unique reading space by curating personalized libraries. Add your favorite books, organize them into thematic bookshelves, and design your literary world.
+    
+    4. Social Networking for Readers:
+    Connect with fellow book lovers, expand your reading circle, and forge meaningful connections. Follow your friends, see their reading lists, and discover new titles through their recommendations.
+    
+    5. Author Interactions and Insights:
+    Stay updated with your favorite authors. Follow their profiles, delve into their bibliographies, and receive notifications about their latest releases.
+    
+    6. Interactive Book Reviews and Discussions:
+    Share your thoughts through detailed book reviews.
 
 GROUP PROJECT 
 
@@ -88,6 +86,7 @@ After a final discussion with the product owner I finally decided to implement m
 For the group project we had already a chosen UI from the product owner. 
 
 ### Software Development
+
   INDIVIDUAL PROJECT
 
 To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers here: {src}
@@ -153,7 +152,6 @@ The number of people in the team almost matches the number of features in the pr
 More and more features are due to emerge and I am looking forward to do them.
 
 
-
 ## LO2. Software quality 
 
 The software quality side includes many factors such as:
@@ -163,7 +161,6 @@ The software quality side includes many factors such as:
 
 2. Version Control Systems:
     Version control (Git) systems helped track the changes in the source code in both my individual project and the group project, collaborate with team members, and maintain a history of code modifications. 
-
 
 3. Continuous Integration and Continuous Deployment (CI/CD) Tools:
   [CI/CD](#lo4-cicd)}
@@ -181,8 +178,6 @@ For the front-end side of the applications I used Google's development tool call
   No application can be deployed without identifing vulnerabilities in the application code and configuration. These tools help developers address security issues and improve the overall security posture of the software. I used OWASP
 TOP 10 vulnerabilities list to examine my code and to avoid the most common mistakes that happen securitywise in applications.
 <img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" />
-
-
 
 
 
@@ -233,7 +228,7 @@ My next goal in terms of testing is to make a more extensive research on how can
 
 ### UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
-After an extensive research (mentioned in [Requirements and Design](#lo6-requirements-and-design)) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
+After an extensive research (mentioned in {research page}) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
 <br>
 
 
