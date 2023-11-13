@@ -278,6 +278,6 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 ## LO8. Professional  
 
 By following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
-src
+<img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
 
 
