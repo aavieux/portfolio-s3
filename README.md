@@ -336,6 +336,7 @@ Benefits:
   
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
 
+..//TODO before after software diagram 
 
 ## LO8. Professional  
 Acting professional in a multicultural project is essential for good communication, planning, execution and development of a software product. Every Tuesday we have meetings with the Brasilian group as part of the agile method of work. Then we often discuss things that need attention from both sides. This happens usually when two pieces of functionalities have to be combined or adjusted for the development to continue.
