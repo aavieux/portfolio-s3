@@ -59,6 +59,7 @@ INDIVIDUAL PROJECT
     6. Interactive Book Reviews and Discussions:
     Share your thoughts through detailed book reviews.
 
+
 GROUP PROJECT 
 
   The primary goal of the group project is to streamline the integration and orientation process for new students at Maua by developing a comprehensive web application. The impetus behind this project is the recognition of the challenges faced by incoming students in navigating the activities, locations, and organizations within the university.  
@@ -67,6 +68,25 @@ The advantages of this project are multifaceted: it simplifies the onboarding pr
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
 
 <img src="./images/Picture2.png" alt="wireframe" style="max-width:100%;max-height:78%" />
+
+
+Non functional requirements for both of the project are:
+
+    1.	Usability 
+    1.1. The software should be user-friendly and intuitive. 
+    1.2. The software should have a consistent and visually appealing design. 
+    1.3. The software should have clear and concise error messages.
+    2.	Performance 
+    2.1. The software should be responsive and fast. 
+    2.2. The software should handle large amounts of data efficiently. 
+    2.3. The software should have minimal downtime.
+    3.	Reliability 
+    3.1. The software should be stable and reliable. 
+    3.2. The software should have backup and recovery mechanisms in case of data loss.
+    4.	Security 
+    4.1. The software should be secure and protect sensitive data. 
+    4.2. The software should comply with industry-standard security protocols. 
+    4.3. The software should have a mechanism for identifying and preventing unauthorized access.
 
 
 ### UI prototyping
@@ -145,25 +165,6 @@ GROUP PROJECT
           iii.	The map should also display the locations of cafeterias and restaurants on the campus. - 21 - 2 days
           Testing: 2 days
           Full estimation: 11 days
-
-Non functional requirements for the project are:
-
-    1.	Usability 
-    1.1. The software should be user-friendly and intuitive. 
-    1.2. The software should have a consistent and visually appealing design. 
-    1.3. The software should have clear and concise error messages.
-    2.	Performance 
-    2.1. The software should be responsive and fast. 
-    2.2. The software should handle large amounts of data efficiently. 
-    2.3. The software should have minimal downtime.
-    3.	Reliability 
-    3.1. The software should be stable and reliable. 
-    3.2. The software should have backup and recovery mechanisms in case of data loss.
-    4.	Security 
-    4.1. The software should be secure and protect sensitive data. 
-    4.2. The software should comply with industry-standard security protocols. 
-    4.3. The software should have a mechanism for identifying and preventing unauthorized access.
-
 
 
 <img src="./images/Screenshot_3 (4).png" alt="interactive-campus-map" style="max-width:100%;max-height:78%" />
