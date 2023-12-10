@@ -66,13 +66,8 @@ The advantages of this project are multifaceted: it simplifies the onboarding pr
 
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
 
-
 <img src="./images/Picture2.png" alt="wireframe" style="max-width:100%;max-height:78%" />
 
-
-  
-
-<br>
 
 ### UI prototyping
 
@@ -93,7 +88,7 @@ For the group project we had already a chosen UI from the product owner.
 To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers here: {src}
 Based on the answers I prioritized my tasks accordingly.
 
-In the begining, the difficulties i found were that the technologies I wanted to use were foreign to me and I needed to make an extensive research how the project should be structured.
+In the beginning, the difficulties I have faced were that the technologies I wanted to use were foreign to me and I had to make an extensive research how the project should be structured.
 
 The first thing that I started doing is the main page. I decided to split in half horizontally. In the upper side I have put the books that are recommended to the user based on their searches, saved books, favourite author, etc. The algorythm for this is also a user requirement which is yet to be implemented.
 
@@ -139,8 +134,7 @@ I understood that you cannot go to deployment without testing. Ever. That ment t
 GROUP PROJECT 
 
   I have developed the feature to be able to see an interactive campus map based on the following user story:
-  
-    {
+
           User Story 3:
           As a student,
           I want access to an interactive campus map
@@ -151,7 +145,25 @@ GROUP PROJECT
           iii.	The map should also display the locations of cafeterias and restaurants on the campus. - 21 - 2 days
           Testing: 2 days
           Full estimation: 11 days
-    }
+
+Non functional requirements for the project are:
+
+    1.	Usability 
+    1.1. The software should be user-friendly and intuitive. 
+    1.2. The software should have a consistent and visually appealing design. 
+    1.3. The software should have clear and concise error messages.
+    2.	Performance 
+    2.1. The software should be responsive and fast. 
+    2.2. The software should handle large amounts of data efficiently. 
+    2.3. The software should have minimal downtime.
+    3.	Reliability 
+    3.1. The software should be stable and reliable. 
+    3.2. The software should have backup and recovery mechanisms in case of data loss.
+    4.	Security 
+    4.1. The software should be secure and protect sensitive data. 
+    4.2. The software should comply with industry-standard security protocols. 
+    4.3. The software should have a mechanism for identifying and preventing unauthorized access.
+
 
 
 <img src="./images/Screenshot_3 (4).png" alt="interactive-campus-map" style="max-width:100%;max-height:78%" />
@@ -166,7 +178,9 @@ More and more features are due to emerge and I am looking forward to do them.
 The software quality side includes many factors such as:
 
 1. Integrated Development Environments (IDEs):
-    Choosing the right IDE for the technologies and languages you will use is crucial for a pleasant and easy work.
+    Choosing the right IDE for the technologies and languages you will use is crucial for a pleasant and easy work. I have schosen IntelliJ, because it is a perfect fit for the technologies I am using for the backend of my individual project, by having all the necessary
+   plugins and tools to make my work lighter and more comfortable.
+   One more product that I have used from JetBrains is Webstorm. My frontend side is developed on different IDE, because it needs different kind of tools. The reason why I am using mostly JetBrains products is because I have worked with them before and I never had any     performance issues with them and everything just works as expected.
 
 2. Version Control Systems:
     Version control (Git) systems helped track the changes in the source code in both my individual project and the group project, collaborate with team members, and maintain a history of code modifications. 
@@ -175,18 +189,30 @@ The software quality side includes many factors such as:
   [CI/CD](#lo4-cicd)}
 
 4. Code Review Tools:
-   Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
+    Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
+    Combined with Git it gives the developer the most common  way of version control of a project.
 
-   
-  <img src="./images/Screenshot_3.png" alt="github" style="max-width:100%;max-height:78%" />
+
+<img src="./images/Screenshot_3.png" alt="github" style="max-width:100%;max-height:78%" />
+
+
+5. Testing:
   
+Every feature so far I try my best to be always tested properly so that I can keep an eye if everything is working correctly. I developed the tests by using an extention called Diffblue, which eases the work for the tests by writing them automatically based on the provided code. If there are any errors, it automatically detects them and gives feedback to the developer.
 
+
+<img src="./images/Screenshot_4 (2).png" alt="diffblue" style="max-width:100%;max-height:78%" />
+
+
+<img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
+  
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
 For the front-end side of the applications I used Google's development tool called "Lighthouse".
 
 
 <img src="./images/IYRw9kB2rqEsnAj48IJ9.avif" alt="lighthouse_image" style="max-width:100%;max-height:78%" />
+
 
 8. Security Scanning Tools:
   No application can be deployed without identifing vulnerabilities in the application code and configuration. These tools help developers address security issues and improve the overall security posture of the software. I used OWASP
@@ -204,7 +230,7 @@ When it comes to software development Agile methodology shines as an iterative a
 
 Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
 
-However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project.
+However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project. Being my own team in the individual project, at the end of every sprint I started reflecting on the things I did and on what I will do the next one, tightly assisted by the feedbacks from my teachers.
 
 In essence my methodology reflects an understanding of principles while also incorporating flexibility, beyond prescribed frameworks. This adaptive mindset ensures that I remain responsive to project needs while fostering an environment to efficient development processes.
 
@@ -220,15 +246,19 @@ In essence my methodology reflects an understanding of principles while also inc
 <img src="./images/Screenshot_3 (2).png" alt="github-actions" style="max-width:100%;max-height:78%" />
 
 
+My pipeline builds the app with maven and runs the tests.
+
+
 <img src="./images/Screenshot_3 (3).png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 
-For continuous deployment I am still weighting out the opportunities, but I have plans to stick with deployment to Azure Web App.
-
-Every feature so far I try my best to be always tested properly so that I can keep an eye if everything is working correctly. I developed the tests by using an extention called Diffblue, which eases the work for the tests.
+<img src="./images/Screenshot_6.png" alt="github-actions-schema" style="max-width:100%;max-height:78%" />
 
 
-<img src="./images/Screenshot_4 (2).png" alt="diffblue" style="max-width:100%;max-height:78%" />
+For continuous deployment I have created a pipeline that checks if all tests are completed, if yes - it automatically logs in DockerHub and builds and pushes the current version of the project.
+
+
+<img src="./images/docker_hub.png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
@@ -238,17 +268,20 @@ My next goal in terms of testing is to make a more extensive research on how can
   The cultural difference is mostly outlined in the group project. I am working with people with different nationalities such as from Turkey and Brasil. 
   Having a difference in the time zones of 5 hours, sometimes made it harder for us to cooperate and schedule meetings. Also understanding one's culture might be hard for somebody who hasn't participated in intercultural meetings, but at the end of the day
   if we try to understand each other's viewpoints and opinions, most of the time we can find a common way to deal with the setbacks.
-  There are many books, and materials published that try to explain and dive deep into the different cultures and their charecters. Such is the book "Culture and organisations" by Gert Jan Hofstede, which was reccomended to me by my teacher Samuil Angelov,    which I would like to get familiar with soon.
+  There are many books, and materials published that try to explain and dive deep into the different cultures and their charecters. Such is the book "Culture and organisations" by Gert Jan Hofstede, which was recommended to me by my teacher Samuil Angelov, which I would like to get familiar with soon.
+    I have also watched some videos including [this](https://youtu.be/VMwjscSCcf0?si=TPaph6glohciT8Rm) about it on Youtube.
 
 ## LO6. Requirements and Design 
 
 ### Design choice of my individual project
-- Front end: React JS 
+- Front end: I have chosen React JS as the main framework of the project, because React is currently the most used framework and it has the biggest community, which means it is most supported, has the most topics covered in the forums and most of the companies search reacts as a crucial part of a developer's skills list.
 
-- Back end: Java Spring Boot
+- Back end: Java Spring Boot was my choice because, it is very easy to develop applications with Java or Groovy, reduces lots of development time and increases productivity, ot is very easy to integrate Spring Boot Application with its Spring Ecosystem like Spring JDBC, Spring ORM, Spring Data, and Spring Security etc and it follows “Opinionated Defaults Configuration” Approach to reduce Developer effort.
 
-- Database: MSSQL
-
+- Database: I have chosen MSSQL databse, because it comes with many useful tools that will speed up database design, development, troubleshooting, and maintenance.
+For example, companies that have a data warehouse running on the MSSQL platform can easily integrate it with Analysis Services and Power BI without having to buy third-party software; everything is available on the MS Data platform.
+### Architectural design 
+...//TODO
 ### UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
 After an extensive research (mentioned in {research page}) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
@@ -270,14 +303,43 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 
 
   In the group project, our applications has the aim to ease teachers and students with managing university-related events. It automizes the process of subscribing/unsubscribing to an event in the system and delivers a quick overview of all events in the different university buildings. It also helps organisers deliver announcements and notifications to people, who have access to the application.
+  
+Admin Perspective:
+
+    Manual Event Creation: Without a centralized system, admins might rely on spreadsheets or emails to manage events. This can lead to inefficiencies and difficulties in tracking event details.
+    Limited Visibility: Admins might struggle to efficiently communicate event details, resulting in lower attendance due to inadequate promotion.
+    
+Student Perspective:
+
+    Information Scattering: Students might miss out on events due to scattered information across various platforms or departments.
+    Limited Engagement: Without a unified platform, students may lack an easy way to discover and subscribe to events that match their interests.
+
+Solution: Event Management Software
+
+Admin Features:
+
+    Centralized Platform: An admin can create, manage, and schedule events from a single platform, streamlining the process and ensuring consistent information.
+    Targeted Promotion: The system allows targeted promotion through notifications or email alerts, boosting event visibility.
+    
+Student Features:
+
+    Comprehensive Event Catalog: Students can access a comprehensive list of events categorized by interests, dates, or departments, facilitating easy discovery.
+    Subscription & Reminders: Students can subscribe to events they're interested in, receiving reminders and updates, enhancing engagement and participation.
+    
+Benefits:
+
+1. Efficiency: Simplifies event creation, management, and promotion for admins.
+2. Enhanced Engagement: Offers students a centralized hub to explore, subscribe, and engage with various events matching their preferences.
+3. Improved Attendance: Centralized information and targeted notifications increase event visibility, attracting more attendees.
 
   
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
-  
+
 
 ## LO8. Professional  
+Acting professional in a multicultural project is essential for good communication, planning, execution and development of a software product. Every Tuesday we have meetings with the Brasilian group as part of the agile method of work. Then we often discuss things that need attention from both sides. This happens usually when two pieces of functionalities have to be combined or adjusted for the development to continue.
 
-By following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
+Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
 <img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
 
 
