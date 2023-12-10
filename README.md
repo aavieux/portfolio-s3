@@ -105,7 +105,7 @@ For the group project we had already a chosen UI from the product owner.
 
   INDIVIDUAL PROJECT
 
-To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers here: {src}
+To have a better understanding of what the most important features are in the project, I conducted a survey, which my classmates filled in, giving opinion by rating the importance of features and giving more ideas, which they believe are important. You can check the answers [here](/files/form.pdf").
 Based on the answers I prioritized my tasks accordingly.
 
 In the beginning, the difficulties I have faced were that the technologies I wanted to use were foreign to me and I had to make an extensive research how the project should be structured.
