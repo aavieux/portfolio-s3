@@ -59,7 +59,7 @@ INDIVIDUAL PROJECT
     6. Interactive Book Reviews and Discussions:
     Share your thoughts through detailed book reviews.
 
-
+//TODO add architectural design referance here
 GROUP PROJECT 
 
   The primary goal of the group project is to streamline the integration and orientation process for new students at Maua by developing a comprehensive web application. The impetus behind this project is the recognition of the challenges faced by incoming students in navigating the activities, locations, and organizations within the university.  
@@ -178,6 +178,7 @@ More and more features are due to emerge and I am looking forward to do them.
 
 The software quality side includes many factors such as:
 
+//TODO add alternatives
 1. Integrated Development Environments (IDEs):
     Choosing the right IDE for the technologies and languages you will use is crucial for a pleasant and easy work. I have schosen IntelliJ, because it is a perfect fit for the technologies I am using for the backend of my individual project, by having all the necessary
    plugins and tools to make my work lighter and more comfortable.
@@ -206,6 +207,8 @@ Every feature so far I try my best to be always tested properly so that I can ke
 
 
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
+
+//TODO Front end testing, what kind of tests did i do
   
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
@@ -263,6 +266,10 @@ For continuous deployment I have created a pipeline that checks if all tests are
 
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
+//TODO
+
+    Nothing more on Azure: are you still using it? Did you change it? Why? Please elaborate because it would be very interesting to see your learnings.
+    A part from this, it is sufficient.
 
 ## LO5. Cultural differences and ethics
 
@@ -271,6 +278,8 @@ My next goal in terms of testing is to make a more extensive research on how can
   if we try to understand each other's viewpoints and opinions, most of the time we can find a common way to deal with the setbacks.
   There are many books, and materials published that try to explain and dive deep into the different cultures and their charecters. Such is the book "Culture and organisations" by Gert Jan Hofstede, which was recommended to me by my teacher Samuil Angelov, which I would like to get familiar with soon.
     I have also watched some videos including [this](https://youtu.be/VMwjscSCcf0?si=TPaph6glohciT8Rm) about it on Youtube.
+
+Ethics //TODO https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
 
 ## LO6. Requirements and Design 
 
@@ -343,5 +352,12 @@ Acting professional in a multicultural project is essential for good communicati
 
 Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
 <img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
+//TODO research
 
+The difficulties I am facing are regarding the communication with the stakeholder. One of the remarks I have received was this: 
+
+    "It's a bit hit and miss with your communication. We speak somewhat regularly, and it's less about you asking what to do, and more on what you are doing! This is an improvement I see. However, you tend to forget to log our conversations in Feedpulse. And if you log it it is very minimal. Proper communication with stakeholders (as I am for your IP) is key in professionalism. It doesn't help that I only see you during our conversations. It would help you (and your colleagues if you worked together more often."
+
+The mistake I have made was that I had to record and improve on the feedback that was given, but I have neglected the recording part. 
+I have learned that these steps are key to proper communication and I will try to improve them, as they are somehow a weak points in my professional development.
 
