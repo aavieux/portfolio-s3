@@ -22,7 +22,7 @@ Teachers: Jean Paul Ligthart, Samuil Angelov and Monique Vissers
 
 ## 1. Introduction
 
-Welcome to my ICT and Software Engineering portfolio! This portfolio shows my work throughout the research, development and testing of my latest software projects in university. 
+Welcome to my ICT and Software Engineering portfolio! This portfolio shows my work throughout the research, development and testing of my latest software projects in university.
 
 ## 2. Learning Outcomes
 
@@ -60,10 +60,10 @@ INDIVIDUAL PROJECT
     Share your thoughts through detailed book reviews.
 
 //TODO add architectural design referance here
-GROUP PROJECT 
+GROUP PROJECT
 
   The primary goal of the group project is to streamline the integration and orientation process for new students at Maua by developing a comprehensive web application. The impetus behind this project is the recognition of the challenges faced by incoming students in navigating the activities, locations, and organizations within the university.  
-The advantages of this project are multifaceted: it simplifies the onboarding process, enhances student experience. By providing a centralized platform for essential information such as campus activities, interactive maps, and organizational directories, the web application adds significant value to the university’s service offering. It enriches the educational environment by fostering a sense of community and belonging among students. 
+The advantages of this project are multifaceted: it simplifies the onboarding process, enhances student experience. By providing a centralized platform for essential information such as campus activities, interactive maps, and organizational directories, the web application adds significant value to the university’s service offering. It enriches the educational environment by fostering a sense of community and belonging among students.
 
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
 
@@ -91,7 +91,7 @@ Non functional requirements for both of the project are:
 
 ### UI prototyping
 
-I have made a lot of UI prototyping, self-studying and researching for my individual project. I researched the most famous online libraries and their UI structure and watched a few explanations on why their UI is user-friendly and effective. 
+I have made a lot of UI prototyping, self-studying and researching for my individual project. I researched the most famous online libraries and their UI structure and watched a few explanations on why their UI is user-friendly and effective.
 
 A prototype of my individual project you can see on page [Requirements and Design](#lo6-requirements-and-design)
 
@@ -328,7 +328,6 @@ After:
 <img src="./images/after_dg.png" alt="after" style="max-width:100%;max-height:78%" />
 
 
-  //todo
 Admin Perspective:
 
     Manual Event Creation: Without a centralized system, admins might rely on spreadsheets or emails to manage events. This can lead to inefficiencies and difficulties in tracking event details.
@@ -361,9 +360,7 @@ Benefits:
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
 
 
-..//TODO before after software diagram 
-
-## LO8. Professional  
+## LO8. Professional
 Acting professional in a multicultural project is essential for good communication, planning, execution and development of a software product. Every Tuesday we have meetings with the Brasilian group as part of the agile method of work. Then we often discuss things that need attention from both sides. This happens usually when two pieces of functionalities have to be combined or adjusted for the development to continue.
 
 Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
