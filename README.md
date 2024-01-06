@@ -178,10 +178,9 @@ More and more features are due to emerge and I am looking forward to do them.
 
 The software quality side includes many factors such as:
 
-//TODO add alternatives
 1. Integrated Development Environments (IDEs):
     Choosing the right IDE for the technologies and languages you will use is crucial for a pleasant and easy work. I have schosen IntelliJ, because it is a perfect fit for the technologies I am using for the backend of my individual project, by having all the necessary
-   plugins and tools to make my work lighter and more comfortable.
+   plugins and tools to make my work lighter and more comfortable. One alternative was Visual Studio, which is also a very good IDE, but I didn't choose it this time, because I wanted to try something new.
    One more product that I have used from JetBrains is Webstorm. My frontend side is developed on different IDE, because it needs different kind of tools. The reason why I am using mostly JetBrains products is because I have worked with them before and I never had any     performance issues with them and everything just works as expected.
 
 2. Version Control Systems:
@@ -192,7 +191,7 @@ The software quality side includes many factors such as:
 
 4. Code Review Tools:
     Code review tools facilitate peer code reviews, allowing developers to collaboratively review code changes, provide feedback, and ensure adherence to coding standards. For this purpouse I used github.
-    Combined with Git it gives the developer the most common  way of version control of a project.
+    Combined with Git it gives the developer the most common  way of version control of a project. I chose Git, because Git is one of the best version control tools that is available in the present market.
 
 
 <img src="./images/Screenshot_3.png" alt="github" style="max-width:100%;max-height:78%" />
@@ -209,6 +208,8 @@ Every feature so far I try my best to be always tested properly so that I can ke
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
 //TODO Front end testing, what kind of tests did i do
+
+For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. 
   
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
@@ -314,6 +315,20 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 
   In the group project, our applications has the aim to ease teachers and students with managing university-related events. It automizes the process of subscribing/unsubscribing to an event in the system and delivers a quick overview of all events in the different university buildings. It also helps organisers deliver announcements and notifications to people, who have access to the application.
   
+  Here I have distinguished the difference in the workflow, before and after developing the software: 
+Before:
+
+
+<img src="./images/before_dg.png" alt="before" style="max-width:100%;max-height:78%" />
+
+
+After:
+
+
+<img src="./images/after_dg.png" alt="after" style="max-width:100%;max-height:78%" />
+
+
+  //todo
 Admin Perspective:
 
     Manual Event Creation: Without a centralized system, admins might rely on spreadsheets or emails to manage events. This can lead to inefficiencies and difficulties in tracking event details.
@@ -344,6 +359,7 @@ Benefits:
 
   
 <img src="./images/gp_wireframe.png" alt="gp_wireframe" style="max-width:100%;max-height:78%" />
+
 
 ..//TODO before after software diagram 
 
