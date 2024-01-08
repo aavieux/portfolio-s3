@@ -370,3 +370,5 @@ The difficulties I am facing are regarding the communication with the stakeholde
 The mistake I have made was that I had to record and improve on the feedback that was given, but I have neglected the recording part. 
 I have learned that these steps are key to proper communication and I will try to improve them, as they are somehow a weak points in my professional development.
 
+## Sources
+
