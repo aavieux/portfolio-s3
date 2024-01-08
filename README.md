@@ -59,7 +59,6 @@ INDIVIDUAL PROJECT
     6. Interactive Book Reviews and Discussions:
     Share your thoughts through detailed book reviews.
 
-//TODO add architectural design referance here
 GROUP PROJECT
 
   The primary goal of the group project is to streamline the integration and orientation process for new students at Maua by developing a comprehensive web application. The impetus behind this project is the recognition of the challenges faced by incoming students in navigating the activities, locations, and organizations within the university.  
@@ -261,16 +260,13 @@ My pipeline builds the app with maven and runs the tests.
 
 
 For continuous deployment I have created a pipeline that checks if all tests are completed, if yes - it automatically logs in DockerHub and builds and pushes the current version of the project.
-
+In the beginning I used Azure Clould Platform, but I have encountered some problems with the development and that's why I explored some other options and I have deciced to dockerize my database. This way was easier for me, because I can upload and manage my appliaction from one platform.
 
 <img src="./images/docker_hub.png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
-//TODO
 
-    Nothing more on Azure: are you still using it? Did you change it? Why? Please elaborate because it would be very interesting to see your learnings.
-    A part from this, it is sufficient.
 
 ## LO5. Cultural differences and ethics
 
