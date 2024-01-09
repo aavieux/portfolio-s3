@@ -234,6 +234,10 @@ Understanding the Essence of Agile Methodology
 
 When it comes to software development Agile methodology shines as an iterative approach that values collaboration, adaptability and customer feedback. While I possess a comprehension of principles and the various well known methods associated with it my personal approach incorporates a combination of tailored Agile concepts that align with my unique work style.
 
+
+<img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+
+
 Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
 Howerver there are different methods that extend agile's principles. Such method is Agile manifesto. It was established in 2001 by a group of software developers who sought to address the limitations of traditional development methods. The Agile Manifesto comprises four key values and twelve principles:
 
@@ -292,9 +296,6 @@ Howerver there are different methods that extend agile's principles. Such method
 
 
 <img src="./images/kanban_3.jpg" alt="agile_cycle" style="max-width:35%;max-height:35%" />
-
-
-<img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
 
 
 ## LO4. CI/CD
