@@ -285,13 +285,13 @@ Howerver there are different methods that extend agile's principles. Such method
     We chose this method because it fit our case and schedule better. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. 
 
 
-<img src="./images/kanban_1.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+<img src="./images/kanban_1.jpg" alt="kanban_1" style="max-width:35%;max-height:35%" />
 
 
-<img src="./images/kanban_2.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+<img src="./images/kanban_2.jpg" alt="kanban_2" style="max-width:35%;max-height:35%" />
 
 
-<img src="./images/kanban_3.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+<img src="./images/kanban_3.jpg" alt="agile_cycle" style="max-width:35%;max-height:35%" />
 
 
 <img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
