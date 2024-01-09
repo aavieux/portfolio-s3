@@ -66,6 +66,7 @@ The advantages of this project are multifaceted: it simplifies the onboarding pr
 
 In the beginning we spoke with the product owner and he gave us wireframes, explaining how the application should look like.
 
+
 <img src="./images/Picture2.png" alt="wireframe" style="max-width:100%;max-height:78%" />
 
 
@@ -206,6 +207,7 @@ Every feature so far I try my best to be always tested properly so that I can ke
 
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
+
 //TODO Front end testing, what kind of tests did i do
 
 For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. 
@@ -233,10 +235,63 @@ Understanding the Essence of Agile Methodology
 When it comes to software development Agile methodology shines as an iterative approach that values collaboration, adaptability and customer feedback. While I possess a comprehension of principles and the various well known methods associated with it my personal approach incorporates a combination of tailored Agile concepts that align with my unique work style.
 
 Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
+Howerver there are different methods that extend agile's principles. Such method is Agile manifesto. It was established in 2001 by a group of software developers who sought to address the limitations of traditional development methods. The Agile Manifesto comprises four key values and twelve principles:
 
-However I don't rigidly adhere to any method alone. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project. Being my own team in the individual project, at the end of every sprint I started reflecting on the things I did and on what I will do the next one, tightly assisted by the feedbacks from my teachers.
+    Values:
+    Individuals and interactions over processes and tools: Emphasizes the importance of collaboration, communication, and teamwork among individuals in a project rather than relying solely on tools or processes.
+    
+    Working software over comprehensive documentation: Prioritizes functional software as the primary measure of progress, valuing usable products over extensive documentation.
+    
+    Customer collaboration over contract negotiation: Encourages ongoing collaboration and feedback with the customer or stakeholders throughout the development process rather than rigidly following initial contracts.
+    
+    Responding to change over following a plan: Acknowledges the inevitability of change and the need to adapt, favoring flexibility and responsiveness over strictly sticking to initial plans.
 
-In essence my methodology reflects an understanding of principles while also incorporating flexibility, beyond prescribed frameworks. This adaptive mindset ensures that I remain responsive to project needs while fostering an environment to efficient development processes.
+    Principles:
+    The Agile Manifesto is further supported by twelve principles that guide Agile development. Some key principles include:
+    
+    Welcome changing requirements, even late in development.
+    Deliver working software frequently, with a preference for shorter timescales.
+    Business people and developers must work together daily.
+    Build projects around motivated individuals; give them the environment and support they need, and trust them to get the job done.
+    Reflect regularly on how to become more effective, and adjust behaviors accordingly.
+    
+    However I don't rigidly adhere to any method alone for my individual project. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project. Being my own team in the individual project, at the end of every sprint I started reflecting on the things I did and on what I will do the next one, tightly assisted by the feedbacks from my teachers.
+    On the other hand in the group project he have adopted the kanban method throughout the project. Agile and kanban differ from each other on several points including:
+        Philosophy:
+        
+        Agile is a broader methodology focusing on iterative development, collaboration, flexibility, and customer feedback.
+        Kanban is more about visualizing work, limiting work in progress (WIP), and enhancing flow.
+        Methodology:
+        
+        Agile encompasses several frameworks like Scrum, Extreme Programming (XP), etc., each with its own rules and ceremonies.
+        Kanban is a method within Agile, providing a visual way to manage tasks, often on a board, and emphasizing continuous delivery without prescribing specific roles or time-boxed iterations.
+        Iterations:
+        
+        Agile typically works in short, fixed-length iterations (sprints) with specific goals.
+        Kanban doesn't have fixed iterations; work is pulled as capacity allows, focusing on maintaining a steady flow.
+        Roles and Structure:
+        
+        Agile frameworks (like Scrum) have defined roles (Product Owner, Scrum Master, etc.) and specific ceremonies (daily standups, sprint planning, etc.).
+        Kanban doesn’t mandate specific roles or ceremonies, allowing more flexibility in structuring teams and workflow.
+        Focus:
+        
+        Agile emphasizes team collaboration, adaptive planning, and delivering a potentially shippable product increment in each sprint.
+        Kanban emphasizes continuous delivery, workflow visualization, and improving flow efficiency.
+        Flexibility:
+        
+        Agile allows for changes within the sprint but aims for stability during the sprint.
+        Kanban allows immediate changes since there are no defined iterations.
+
+    We chose this method because it fit our case and schedule better. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. 
+
+
+<img src="./images/kanban_1.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+
+
+<img src="./images/kanban_2.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+
+
+<img src="./images/kanban_3.jpg" alt="agile_cycle" style="max-width:100%;max-height:78%" />
 
 
 <img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
@@ -274,7 +329,38 @@ My next goal in terms of testing is to make a more extensive research on how can
   Having a difference in the time zones of 5 hours, sometimes made it harder for us to cooperate and schedule meetings. Also understanding one's culture might be hard for somebody who hasn't participated in intercultural meetings, but at the end of the day
   if we try to understand each other's viewpoints and opinions, most of the time we can find a common way to deal with the setbacks.
   There are many books, and materials published that try to explain and dive deep into the different cultures and their charecters. Such is the book "Culture and organisations" by Gert Jan Hofstede, which was recommended to me by my teacher Samuil Angelov, which I would like to get familiar with soon.
-    I have also watched some videos including [this](https://youtu.be/VMwjscSCcf0?si=TPaph6glohciT8Rm) about it on Youtube.
+    I have also watched some videos including [this](https://youtu.be/VMwjscSCcf0?si=TPaph6glohciT8Rm) about it on Youtube. Also a very interesting topic was the cultural types by the [Lewis Model](https://www.crossculture.com/the-lewis-model-dimensions-of-behaviour/). It explains the three main directions the cultures operate:
+    
+    Linear-Active Cultures (LAC):
+    Found in many Western cultures, including the United States and Germany.
+    Emphasizes linear thinking, logic, and direct communication.
+    Tends to focus on tasks and achievements, often valuing punctuality and efficiency.
+    Communication is typically straightforward and explicit.
+    
+    Multi-Active Cultures (MAC):
+    Commonly found in Mediterranean, Latin American, and African cultures.
+    Emphasizes emotions, relationships, and sociability.
+    Time is seen as more fluid, and relationships take precedence over strict schedules.
+    Communication might involve more gestures, interruptions, and passionate expression.
+    
+    Reactive Cultures (RAC):
+    Often found in Asian, Middle Eastern, and some European cultures.
+    Emphasizes harmony, indirect communication, and respect for authority.
+    Values maintaining social harmony, often relying on non-verbal cues and indirect communication.
+    Respect for hierarchy and authority is crucial, and decisions might be made collectively.
+
+<img src="./images/lewis_model.png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+
+One more interesting thing that I learned was about low context and high context conversations. 
+I have encountered situations, when I didn't understand the behaviour of somebody, just because in their culture it is accepted to think and act differently in certain moments than in others.
+One of the key elements of both types are:
+
+
+<img src="./images/low_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+
+
+<img src="./images/high_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+
 
 Ethics //TODO https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
 
@@ -298,6 +384,8 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 <img src="./images/ui-diagram.png" alt="UI" style="max-width:100%;max-height:78%" />
 
 
+###Usability testing
+//TODO 
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
@@ -361,7 +449,7 @@ Acting professional in a multicultural project is essential for good communicati
 
 Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
 <img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
-//TODO research
+//TODO research for security
 
 The difficulties I am facing are regarding the communication with the stakeholder. One of the remarks I have received was this: 
 
@@ -371,4 +459,4 @@ The mistake I have made was that I had to record and improve on the feedback tha
 I have learned that these steps are key to proper communication and I will try to improve them, as they are somehow a weak points in my professional development.
 
 ## Sources
-
+https://agilemanifesto.org/
