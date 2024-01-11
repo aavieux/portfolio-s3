@@ -365,6 +365,7 @@ One of the key elements of both types are:
 
 
 Ethics //TODO https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
+The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](//todo) covering that topic. 
 
 ## LO6. Requirements and Design 
 
