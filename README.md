@@ -377,7 +377,7 @@ The development of a software product must have ethical policy. It has to work f
 - Database: I have chosen MSSQL databse, because it comes with many useful tools that will speed up database design, development, troubleshooting, and maintenance.
 For example, companies that have a data warehouse running on the MSSQL platform can easily integrate it with Analysis Services and Power BI without having to buy third-party software; everything is available on the MS Data platform.
 ### Architectural design 
-You can see my architectural design [here](./files/arch_design.pdf)
+You can see my architectural design [here](./files/arch_design.pdf) //todo make a level 2 diagram
 ### UX design
 In order to have a good User Experience (UX), the project has to have a user friendly User Interface (UI) and an intuitive and easy to way of navigating through the application. 
 After an extensive research (mentioned in {research page}) I developed my own, which fits the modern etiquette of the front-end side of projects and delivers an easy and understandable way of navigation.
