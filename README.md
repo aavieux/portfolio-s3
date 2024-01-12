@@ -388,7 +388,7 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 
 
 ###Usability testing
-//TODO in progress
+    I have given the application to my peers from my class to test and evaluate their experience with it. After that I have conducted a survey for rating the experience from one to five with some more additional questions. The results you can see [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing)
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
