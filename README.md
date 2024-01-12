@@ -364,8 +364,8 @@ One of the key elements of both types are:
 <img src="./images/high_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 
-Ethics //TODO https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
-The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](//todo) covering that topic. 
+//TODO https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
+The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](//todo) covering that topic. I made sure that my application collects as little information as possible to be enough for it to work without a problem. Also the user always has the right and the option to update, request and delete their data from the platform. For analisys of my project I used this [source](https://tict.io/), which is a tool for reflecting on the impact that the product delivers. I believe my project can be considered neutral for general societal impact, because it only presents products, which are available and approved to be sold everywhere in the real and the digital world, but it definately has a positive impact on the individual by offering easier and more convenient way for interacting with books and written format documents.
 
 ## LO6. Requirements and Design 
 
