@@ -379,7 +379,7 @@ For example, companies that have a data warehouse running on the MSSQL platform 
 I learned to do architectural designs for my project after a few unsuccessful attempts (for the current case) and a few feedbacks from my teachers. I learned that it depends in which scope does the design be and that's why I have created two diagrams. The first one represents my first attempt, which is a very detailed UML diagram containing all the details of the classes. You can see it [here](./files/arch_design.pdf). I understood that this is considered level 4 design (which means it is very detailed) and that's why I have created a level 2 diagram, which describes more clearly the process of the application. 
 
 
-<img src="./images/c4_model" alt="c4 model" style="max-width:100%;max-height:78%" />
+<img src="./images/c4_model.jpg" alt="c4 model" style="max-width:100%;max-height:78%" />
 
 
 ### UX design
