@@ -467,4 +467,7 @@ I have learned that these steps are key to proper communication and I will try t
 
 ## Sources
 https://agilemanifesto.org/
+
 https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
+
+https://www.youtube.com/watch?v=x2-rSnhpw0g&t=475s
