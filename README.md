@@ -238,55 +238,58 @@ When it comes to software development Agile methodology shines as an iterative a
 
 
 Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
-Howerver there are different methods that extend agile's principles. Such method is Agile manifesto. It was established in 2001 by a group of software developers who sought to address the limitations of traditional development methods. The Agile Manifesto comprises four key values and twelve principles:
+Howerver there are different methods that extend agile's principles. Such method is Agile manifesto. It was established in 2001 by a group of software developers who sought to address the limitations of traditional development methods. The Agile Manifesto comprises four key values and twelve principles, some of them:
 
-    Values:
-    Individuals and interactions over processes and tools: Emphasizes the importance of collaboration, communication, and teamwork among individuals in a project rather than relying solely on tools or processes.
-    
-    Working software over comprehensive documentation: Prioritizes functional software as the primary measure of progress, valuing usable products over extensive documentation.
-    
-    Customer collaboration over contract negotiation: Encourages ongoing collaboration and feedback with the customer or stakeholders throughout the development process rather than rigidly following initial contracts.
-    
-    Responding to change over following a plan: Acknowledges the inevitability of change and the need to adapt, favoring flexibility and responsiveness over strictly sticking to initial plans.
+Values:
+Individuals and interactions over processes and tools: Emphasizes the importance of collaboration, communication, and teamwork among individuals in a project rather than relying solely on tools or processes.
 
-    Principles:
-    The Agile Manifesto is further supported by twelve principles that guide Agile development. Some key principles include:
-    
-    Welcome changing requirements, even late in development.
-    Deliver working software frequently, with a preference for shorter timescales.
-    Business people and developers must work together daily.
-    Build projects around motivated individuals; give them the environment and support they need, and trust them to get the job done.
-    Reflect regularly on how to become more effective, and adjust behaviors accordingly.
-    
-    However I don't rigidly adhere to any method alone for my individual project. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project. Being my own team in the individual project, at the end of every sprint I started reflecting on the things I did and on what I will do the next one, tightly assisted by the feedbacks from my teachers. I basically set my goals and planning in the beginning of the sprint, during the spring I worked on the product and a little bit before the end of the sprint I wanted feedback from my teachers, processed it, see if anything can be fixed until the end and the cycle goes on.
-    
-    On the other hand in the group project he have adopted the kanban method throughout the project. Agile and kanban differ from each other on several points including:
-        Philosophy:
-        
-        Agile is a broader methodology focusing on iterative development, collaboration, flexibility, and customer feedback.
-        Kanban is more about visualizing work, limiting work in progress (WIP), and enhancing flow.
-        Methodology:
-        
-        Agile encompasses several frameworks like Scrum, Extreme Programming (XP), etc., each with its own rules and ceremonies.
-        Kanban is a method within Agile, providing a visual way to manage tasks, often on a board, and emphasizing continuous delivery without prescribing specific roles or time-boxed iterations.
-        Iterations:
-        
-        Agile typically works in short, fixed-length iterations (sprints) with specific goals.
-        Kanban doesn't have fixed iterations; work is pulled as capacity allows, focusing on maintaining a steady flow.
-        Roles and Structure:
-        
-        Agile frameworks (like Scrum) have defined roles (Product Owner, Scrum Master, etc.) and specific ceremonies (daily standups, sprint planning, etc.).
-        Kanban doesn’t mandate specific roles or ceremonies, allowing more flexibility in structuring teams and workflow.
-        Focus:
-        
-        Agile emphasizes team collaboration, adaptive planning, and delivering a potentially shippable product increment in each sprint.
-        Kanban emphasizes continuous delivery, workflow visualization, and improving flow efficiency.
-        Flexibility:
-        
-        Agile allows for changes within the sprint but aims for stability during the sprint.
-        Kanban allows immediate changes since there are no defined iterations.
+Working software over comprehensive documentation: Prioritizes functional software as the primary measure of progress, valuing usable products over extensive documentation.
 
-    We chose this method because it fit our case and schedule better. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. 
+Customer collaboration over contract negotiation: Encourages ongoing collaboration and feedback with the customer or stakeholders throughout the development process rather than rigidly following initial contracts.
+
+Responding to change over following a plan: Acknowledges the inevitability of change and the need to adapt, favoring flexibility and responsiveness over strictly sticking to initial plans.
+
+Principles:
+The Agile Manifesto is further supported by twelve principles that guide Agile development. Some key principles include:
+
+Welcome changing requirements, even late in development.
+Deliver working software frequently, with a preference for shorter timescales.
+Business people and developers must work together daily.
+Build projects around motivated individuals; give them the environment and support they need, and trust them to get the job done.
+Reflect regularly on how to become more effective, and adjust behaviors accordingly.
+
+However I don't rigidly adhere to any method alone for my individual project. Instead I have embraced a customized approach that integrates principles into my workflow. My focus lies in communication channels, constant feedback loops and incremental development. This chosen path empowers me to embrace the essence of Agile while adapting to the requirements and nuances of each project. Being my own team in the individual project, at the end of every sprint I started reflecting on the things I did and on what I will do the next one, tightly assisted by the feedbacks from my teachers. I basically set my goals and planning in the beginning of the sprint, during the spring I worked on the product and a little bit before the end of the sprint I wanted feedback from my teachers, processed it, see if anything can be fixed until the end and the cycle goes on.
+
+On the other hand in the group project he have adopted the kanban method throughout some parts of the project. Agile and kanban differ from each other on several points including:
+
+Philosophy:
+
+Agile is a broader methodology focusing on iterative development, collaboration, flexibility, and customer feedback.
+Kanban is more about visualizing work, limiting work in progress (WIP), and enhancing flow.
+Methodology:
+
+Agile encompasses several frameworks like Scrum, Extreme Programming (XP), etc., each with its own rules and ceremonies.
+Kanban is a method within Agile, providing a visual way to manage tasks, often on a board, and emphasizing continuous delivery without prescribing specific roles or time-boxed iterations.
+Iterations:
+
+Agile typically works in short, fixed-length iterations (sprints) with specific goals.
+Kanban doesn't have fixed iterations; work is pulled as capacity allows, focusing on maintaining a steady flow.
+Roles and Structure:
+
+Agile frameworks (like Scrum) have defined roles (Product Owner, Scrum Master, etc.) and specific ceremonies (daily standups, sprint planning, etc.).
+Kanban doesn’t mandate specific roles or ceremonies, allowing more flexibility in structuring teams and workflow.
+Focus:
+
+Agile emphasizes team collaboration, adaptive planning, and delivering a potentially shippable product increment in each sprint.
+Kanban emphasizes continuous delivery, workflow visualization, and improving flow efficiency.
+Flexibility:
+
+Agile allows for changes within the sprint but aims for stability during the sprint.
+Kanban allows immediate changes since there are no defined iterations.
+
+We chose this method because it fit our case and schedule better for certain period. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. Eventually we continued to work with Scrum, having at least 2 stand-up meetings each sprint and also we had spring reviews. During the sprint reviews we had our teacher join to receive feedback on how are we performing and what can we improve.
+
+//todo add images
 
 
 <img src="./images/kanban_1.jpg" alt="kanban_1" style="max-width:35%;max-height:35%" />
@@ -454,9 +457,11 @@ Benefits:
 Acting professional in a multicultural project is essential for good communication, planning, execution and development of a software product. Every Tuesday we have meetings with the Brasilian group as part of the agile method of work. Then we often discuss things that need attention from both sides. This happens usually when two pieces of functionalities have to be combined or adjusted for the development to continue.
 
 Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
-<img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
-//TODO research for security
 
+
+<img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
+
+For example I used it when I started writing my [research document](./files/research.docx).
 The difficulties I am facing are regarding the communication with the stakeholder. One of the remarks I have received was this: 
 
     "It's a bit hit and miss with your communication. We speak somewhat regularly, and it's less about you asking what to do, and more on what you are doing! This is an improvement I see. However, you tend to forget to log our conversations in Feedpulse. And if you log it it is very minimal. Proper communication with stakeholders (as I am for your IP) is key in professionalism. It doesn't help that I only see you during our conversations. It would help you (and your colleagues if you worked together more often."
@@ -479,4 +484,4 @@ https://www.crossculture.com/the-lewis-model-dimensions-of-behaviour/
 
 https://en.wikipedia.org/wiki/High-context_and_low-context_cultures
 
-
+https://www.productboard.com/glossary/agile-values/ (Agile Manifesto Values)
