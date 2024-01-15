@@ -6,7 +6,6 @@ Teachers: Jean Paul Ligthart, Samuil Angelov and Monique Vissers
 
 ## My Website
 - Git Repository: https://github.com/aavieux/portfolio-s3
-- Research Report: https://github.com/...
 ---
 ## Table of Contents
 1. [Introduction](#1-introduction)
