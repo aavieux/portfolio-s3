@@ -366,7 +366,16 @@ One of the key elements of both types are:
 <img src="./images/high_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
 
-The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](./files/research.docx) covering that topic. I made sure that my application collects as little information as possible to be enough for it to work without a problem. Also the user always has the right and the option to update, request and delete their data from the platform. For analisys of my project I used this [source](https://tict.io/), which is a tool for reflecting on the impact that the product delivers. I believe my project can be considered neutral for general societal impact, because it only presents products, which are available and approved to be sold everywhere in the real and the digital world, but it definately has a positive impact on the individual by offering easier and more convenient way for interacting with books and written format documents.
+The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](./files/Research.docx) covering that topic. 
+For analisys of my project I used this [source](https://tict.io/), which is a tool for reflecting on the impact that the product delivers. It helped me answer important questions about the ethical aspect of my project. 
+
+The end goal of this semester project is to create an application, which will ease people with buying digital versions of books and create a social network between the users, being an open prototype for further extention for features, when the possible stakeholders can be people who like the idea of having a space to read new or their favourite books and to communicate with people, which have similar interests in books, genres, authors, etc.
+
+With the current security applications, I strive to consider the privacy, the data and the transparency of all parties involved in my project. 
+
+I made sure that my application collects as little information as possible to be enough for it to work without a problem. Also the user always has the right and the option to update, request and delete their data from the platform. 
+
+I think a perfect scenario in the future would be if this applicaiton establishes itself as a popular online book library amongst book enthusiasts and if it delivers joy and comfort in the users.
 
 ## LO6. Requirements and Design 
 
