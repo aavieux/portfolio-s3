@@ -207,7 +207,7 @@ Every feature so far I try my best to be always tested properly so that I can ke
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
 
-//TODO Front end testing, what kind of tests did i do
+//TODO Front end testing, what kind of tests did i do, sonar cube, alternatives
 
 For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. 
   
@@ -377,6 +377,7 @@ I made sure that my application collects as little information as possible to be
 
 I think a perfect scenario in the future would be if this applicaiton establishes itself as a popular online book library amongst book enthusiasts and if it delivers joy and comfort in the users.
 
+//todo research #2
 ## LO6. Requirements and Design 
 
 ### Design choice of my individual project
@@ -403,7 +404,11 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 
 
 ###Usability testing
-    I have given the application to my peers from my class to test and evaluate their experience with it. After that I have conducted a survey for rating the experience from one to five with some more additional questions. The results you can see [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing)
+    I have given the application to my peers from my class to test and evaluate their experience with it. This in-person usability test consisted of them navigating through my website, trying and testing the features, buttons and fields.
+    They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. The task was to "break" the website and to give me an overall feedback on the user experience they had with the interface.
+    The results were mostly positive. They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it. Most of them said that it needed more contrast. 
+    You can see the survey after the testing [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing).
+    //todo 
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
