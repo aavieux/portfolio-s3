@@ -403,12 +403,15 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 <img src="./images/ui-diagram.png" alt="UI" style="max-width:100%;max-height:78%" />
 
 
-###Usability testing
-    I have given the application to my peers from my class to test and evaluate their experience with it. This in-person usability test consisted of them navigating through my website, trying and testing the features, buttons and fields.
-    They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. The task was to "break" the website and to give me an overall feedback on the user experience they had with the interface.
-    The results were mostly positive. They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it. Most of them said that it needed more contrast. 
-    You can see the survey after the testing [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing).
-    //todo 
+### Usability testing
+I have given the application to my peers from my class to test and evaluate their experience with it. This in-person usability test consisted of them navigating through my website, trying and testing the features, buttons and fields.
+
+They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. The task was to "break" the website and to give me an overall feedback on the user experience they had with the interface.
+
+The results were mostly positive. They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it. Most of them said that it needed more contrast. 
+
+You can see the survey after the testing [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing).
+//todo 
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
