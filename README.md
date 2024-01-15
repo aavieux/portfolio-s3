@@ -470,3 +470,13 @@ https://agilemanifesto.org/
 https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
 
 https://www.youtube.com/watch?v=x2-rSnhpw0g&t=475s
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fowasp.org%2Fwww-project-top-ten%2F&psig=AOvVaw3DqAS2qrdXNZ4VhgPfaRcg&ust=1705434865814000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDuvYyW4IMDFQAAAAAdAAAAABAI
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.krasamo.com%2Fagile-development-process%2F&psig=AOvVaw1bB9gYlziqXUfBDwFT286z&ust=1705434937102000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDT-6uW4IMDFQAAAAAdAAAAABAD
+
+https://www.crossculture.com/the-lewis-model-dimensions-of-behaviour/
+
+https://en.wikipedia.org/wiki/High-context_and_low-context_cultures
+
+
