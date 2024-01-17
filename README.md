@@ -207,13 +207,12 @@ Every feature so far I try my best to be always tested properly so that I can ke
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
 
-//TODO Front end testing, what kind of tests did i do, sonar cube, alternatives
+For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. I chose Jest, because it has zero configurations, snapshot testing, mocking capabilities and great documentation and explanation on many topics in the internet. Currently I am researching how to use it and for the next sprint I am planing to fully implement it in my code. After testing it, I will try its alternatives like WebDriverIO.
 
-For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. 
-  
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
 For the front-end side of the applications I used Google's development tool called "Lighthouse".
+Also I am currently exploring SonarQube to have a program to test the code coverage on my application. It is handy, because it has also security scanning and it can be easily integrated with CI/CD. 
 
 
 <img src="./images/IYRw9kB2rqEsnAj48IJ9.avif" alt="lighthouse_image" style="max-width:100%;max-height:78%" />
