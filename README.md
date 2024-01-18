@@ -228,7 +228,7 @@ Also I am currently exploring SonarQube to have a program to test the code cover
 TOP 10 vulnerabilities list to examine my code and to avoid the most common mistakes that happen securitywise in applications.
 
 
-<img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" />
+<img src="./images/Screenshot_4.png" alt="owasp_top10" style="max-width:100%;max-height:78%" /> (src n.4)
 
 
 ## LO3. Agile methods
@@ -238,7 +238,7 @@ Understanding the Essence of Agile Methodology
 When it comes to software development Agile methodology shines as an iterative approach that values collaboration, adaptability and customer feedback. While I possess a comprehension of principles and the various well known methods associated with it my personal approach incorporates a combination of tailored Agile concepts that align with my unique work style.
 
 
-<img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" />
+<img src="./images/agile-01-scaled.webp" alt="agile_cycle" style="max-width:100%;max-height:78%" /> (src n.5)
 
 
 Agile promotes collaboration, frequent reassessment of project goals and iterative development cycles. These core principles seamlessly resonate with my belief, in adaptability and responsiveness. I fully acknowledge the importance of user feedback and continuous improvements allowing me to progressively enhance projects.
@@ -292,6 +292,8 @@ Agile allows for changes within the sprint but aims for stability during the spr
 Kanban allows immediate changes since there are no defined iterations.
 
 We chose this method because it fit our case and schedule better for certain period. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. Eventually we continued to work with Scrum, having at least 2 stand-up meetings each sprint and also we had spring reviews. During the sprint reviews we had our teacher join to receive feedback on how are we performing and what can we improve.
+
+
 
 //todo add images
 
@@ -357,17 +359,17 @@ My next goal in terms of testing is to make a more extensive research on how can
     Values maintaining social harmony, often relying on non-verbal cues and indirect communication.
     Respect for hierarchy and authority is crucial, and decisions might be made collectively.
 
-<img src="./images/lewis_model.png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+<img src="./images/lewis_model.png" alt="github-actions-code" style="max-width:100%;max-height:78%" /> (src n.6)
 
 One more interesting thing that I learned was about low context and high context conversations. 
 I have encountered situations, when I didn't understand the behaviour of somebody, just because in their culture it is accepted to think and act differently in certain moments than in others.
 One of the key elements of both types are:
 
 
-<img src="./images/low_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+<img src="./images/low_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" /> (src n.7)
 
 
-<img src="./images/high_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" />
+<img src="./images/high_context.jpg" alt="github-actions-code" style="max-width:100%;max-height:78%" /> (src n.7)
 
 
 The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](./files/Research.docx) covering that topic. 
@@ -410,12 +412,13 @@ After an extensive research (mentioned in {research page}) I developed my own, w
 ### Usability testing
 I have given the application to my peers from my class to test and evaluate their experience with it. This in-person usability test consisted of them navigating through my website, trying and testing the features, buttons and fields.
 
-They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. The task was to "break" the website and to give me an overall feedback on the user experience they had with the interface.
+They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. I want them to use the website and to give me an overall feedback on the user experience they had with the interface.
 
-The results were mostly positive. They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it. Most of them said that it needed more contrast. 
+The results were mostly positive, but I wanted to get diverse feedback, so I did the testing with people, which are more critical than others They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it and because there is a big part of the application that doesn't work, because it is still in development, they gave me lower score on some of the questions. Most of them said that it needed more contrast, to be more reactive (when changing the aspect ratio of the screen), having more interaction with the user (not to be so static) and . 
 
-You can see the survey after the testing [here](https://docs.google.com/spreadsheets/d/14donyA2mybVhgkx_1IHvkLoTWvarSqMdqiULRPgKbPw/edit?usp=sharing).
-//todo 
+You can see the survey and the feedback given to me after the testing [here](./images/usability.png). This is a more readable, but more brief overview of the results, if you want to see the extensive table you can click [here](./files/usability.pdf)
+
+
 ## LO7. Business processes
   A business process, also known as a business method or function, is like a set of organized tasks or activities that people or machines do in a specific order. When these tasks are done in a particular sequence, they create a service or product, fulfilling a specific business goal for a customer or group of customers.
   
@@ -480,7 +483,8 @@ Acting professional in a multicultural project is essential for good communicati
 Furthermore, by following the structured approach of the [DOT Framework](https://maken.wikiwijs.nl/129804/DOT_framework__EN_) I am able to find an answer to each reasearch I do, regardless of which project it is. 
 
 
-<img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" />
+<img src="./images/dot-framework.png" alt="dot_framework" style="max-width:100%;max-height:78%" /> (src n.9)
+
 
 For example I used it when I started writing my [research document](./files/research.docx).
 The difficulties I am facing are regarding the communication with the stakeholder. One of the remarks I have received was this: 
@@ -491,18 +495,21 @@ The mistake I have made was that I had to record and improve on the feedback tha
 I have learned that these steps are key to proper communication and I will try to improve them, as they are somehow a weak points in my professional development.
 
 ## Sources
-https://agilemanifesto.org/
 
-https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
+1. https://agilemanifesto.org/
 
-https://www.youtube.com/watch?v=x2-rSnhpw0g&t=475s
+2. https://fhict.instructure.com/courses/13185/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=969269
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fowasp.org%2Fwww-project-top-ten%2F&psig=AOvVaw3DqAS2qrdXNZ4VhgPfaRcg&ust=1705434865814000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDuvYyW4IMDFQAAAAAdAAAAABAI
+3. https://www.youtube.com/watch?v=x2-rSnhpw0g&t=475s
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.krasamo.com%2Fagile-development-process%2F&psig=AOvVaw1bB9gYlziqXUfBDwFT286z&ust=1705434937102000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDT-6uW4IMDFQAAAAAdAAAAABAD
+4. https://www.google.com/url?sa=i&url=https%3A%2F%2Fowasp.org%2Fwww-project-top-ten%2F&psig=AOvVaw3DqAS2qrdXNZ4VhgPfaRcg&ust=1705434865814000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDuvYyW4IMDFQAAAAAdAAAAABAI
 
-https://www.crossculture.com/the-lewis-model-dimensions-of-behaviour/
+5. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.krasamo.com%2Fagile-development-process%2F&psig=AOvVaw1bB9gYlziqXUfBDwFT286z&ust=1705434937102000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDT-6uW4IMDFQAAAAAdAAAAABAD
 
-https://en.wikipedia.org/wiki/High-context_and_low-context_cultures
+6. https://www.crossculture.com/the-lewis-model-dimensions-of-behaviour/
 
-https://www.productboard.com/glossary/agile-values/ (Agile Manifesto Values)
+7. https://en.wikipedia.org/wiki/High-context_and_low-context_cultures
+
+8. https://www.productboard.com/glossary/agile-values/ (Agile Manifesto Values)
+9. 
+10. https://ictresearchmethods.nl/dot-framework/
