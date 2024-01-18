@@ -416,7 +416,7 @@ They were intentionally trying to quickly navigate through the website to test t
 
 The results were mostly positive, but I wanted to get diverse feedback, so I did the testing with people, which are more critical than others They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it and because there is a big part of the application that doesn't work, because it is still in development, they gave me lower score on some of the questions. Most of them said that it needed more contrast, to be more reactive (when changing the aspect ratio of the screen), having more interaction with the user (not to be so static) and . 
 
-You can see the survey and the feedback given to me after the testing [here](./images/usability.png). This is a more readable, but more brief overview of the results, if you want to see the extensive table you can click [here](./files/usability.pdf)
+You can see the survey and the feedback given to me after the testing [here](./images/usability.png). This is a more readable, but more brief overview of the results, if you want to see the extensive table you can click [here](./files/usability.csv)
 
 
 ## LO7. Business processes
