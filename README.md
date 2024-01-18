@@ -207,7 +207,12 @@ Every feature so far I try my best to be always tested properly so that I can ke
 <img src="./images/Screenshot_5.png" alt="diffblue" style="max-width:100%;max-height:78%" />
 
 
-For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. I chose Jest, because it has zero configurations, snapshot testing, mocking capabilities and great documentation and explanation on many topics in the internet. Currently I am researching how to use it and for the next sprint I am planing to fully implement it in my code. After testing it, I will try its alternatives like WebDriverIO.
+For front-end testing, I decided to use Jest, which is a tool for JavaScript(front-end) testing. I chose Jest, because it has zero configurations, snapshot testing, mocking capabilities and great documentation and explanation on many topics in the internet. Currently I am researching how to use it and for now I have created some tests. I expected it to be easier to set up, because in order to make some of the test pass, I had to configure Babel and Jest a lot. I am planing to fully implement it in my code, covering big chunk of my code. It is very convinient, because it also gives you coverage percentage .
+After testing it, I will try its alternatives like WebDriverIO, just to see more in-depth the differences.
+
+
+<img src="./images/jest.png" alt="jest" style="max-width:100%;max-height:78%" />
+
 
 6. Performance Testing Tools:
   These tools simulate real-world user loads to assess how the application performs under various conditions, identifying bottlenecks and optimizing code and infrastructure for better performance.
