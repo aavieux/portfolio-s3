@@ -329,6 +329,14 @@ In the beginning I used Azure Clould Platform, but I have encountered some probl
 
 <img src="./images/docker_hub.png" alt="github-actions-code" style="max-width:100%;max-height:78%" />
 
+Also I wanted to include a quality platform to analyse my code and to combine it with CI. I saw what is out there for tools and after comparing I chose Qodana from Jetbrains. The setup was absolutely easy, because of the ecosystem of the tools I am already using from JetBrains. This tool helps me improve my code quality and optimize code reviews free of charge. This is a brief screenshot of some results in time of my project:
+
+
+<img src="./images/qodana1.png" alt="qodana1" style="max-width:100%;max-height:78%" />
+
+
+<img src="./images/qodana2.png" alt="qodana2" style="max-width:100%;max-height:78%" />
+
 
 My next goal in terms of testing is to make a more extensive research on how can I improve my tests. 
 
