@@ -294,17 +294,7 @@ Kanban allows immediate changes since there are no defined iterations.
 We chose this method because it fit our case and schedule better for certain period. We used a tool called Jira, which helped us track past, current and future plannings about the allocation of the tasks for the development of the software. Eventually we continued to work with Scrum, having at least 2 stand-up meetings each sprint and also we had spring reviews. During the sprint reviews we had our teacher join to receive feedback on how are we performing and what can we improve.
 
 
-
-//todo add images
-
-
-<img src="./images/kanban_1.jpg" alt="kanban_1" style="max-width:35%;max-height:35%" />
-
-
-<img src="./images/kanban_2.jpg" alt="kanban_2" style="max-width:35%;max-height:35%" />
-
-
-<img src="./images/kanban_3.jpg" alt="agile_cycle" style="max-width:35%;max-height:35%" />
+<img src="./images/kanban_1.jpg" alt="kanban_1" width="35%" height="35%" />  <img src="./images/kanban_2.jpg" alt="kanban_2" width="35%" height="35%" />  <img src="./images/kanban_3.jpg" alt="agile_cycle" width="35%" height="35%" />
 
 
 ## LO4. CI/CD
@@ -381,7 +371,7 @@ One of the key elements of both types are:
 
 
 The development of a software product must have ethical policy. It has to work for everyone, everywhere, should respect user's privacy and security. I have made an extensive [research](./files/Research.docx) covering that topic. 
-For analisys of my project I used this [source](https://tict.io/), which is a tool for reflecting on the impact that the product delivers. It helped me answer important questions about the ethical aspect of my project. 
+For analisys of my project I used this Technology Impact Cycle Tool [TICT](https://tict.io/), which is a tool for reflecting on the impact that the product delivers. It helped me answer important questions about the ethical aspect of my project. 
 
 The end goal of this semester project is to create an application, which will ease people with buying digital versions of books and create a social network between the users, being an open prototype for further extention for features, when the possible stakeholders can be people who like the idea of having a space to read new or their favourite books and to communicate with people, which have similar interests in books, genres, authors, etc.
 
@@ -391,7 +381,7 @@ I made sure that my application collects as little information as possible to be
 
 I think a perfect scenario in the future would be if this applicaiton establishes itself as a popular online book library amongst book enthusiasts and if it delivers joy and comfort in the users.
 
-//todo research #2
+
 ## LO6. Requirements and Design 
 
 ### Design choice of my individual project
@@ -422,7 +412,7 @@ I have given the application to my peers from my class to test and evaluate thei
 
 They were intentionally trying to quickly navigate through the website to test the responsiveness of it and also to see if any bugs will appear. I want them to use the website and to give me an overall feedback on the user experience they had with the interface.
 
-The results were mostly positive, but I wanted to get diverse feedback, so I did the testing with people, which are more critical than others They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it and because there is a big part of the application that doesn't work, because it is still in development, they gave me lower score on some of the questions. Most of them said that it needed more contrast, to be more reactive (when changing the aspect ratio of the screen), having more interaction with the user (not to be so static) and . 
+The results were mostly positive, but I wanted to get diverse feedback, so I did the testing with people, which are more critical than others They described the website's user interface user-friendly and intuitive, but I received some remarks concerning the colors used in it and because there is a big part of the application that doesn't work, because it is still in development, they gave me lower score on some of the questions. Most of them said that it needed more contrast, to be more reactive (when changing the aspect ratio of the screen), having more interaction with the user (not to be so static). One more thing that was mentioned were the icons, which should be more "popping" to be better noticeable.
 
 You can see the survey and the feedback given to me after the testing [here](./images/usability.png). This is a more readable, but more brief overview of the results, if you want to see the extensive table you can click [here](./files/usability.csv)
 
